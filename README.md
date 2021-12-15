@@ -2,8 +2,6 @@
 
 This is a Twitter clone made with Ruby on Rails to get more knowledge, also I did some touches with Bulma 
 
-Things you may want to cover:
-
 * Ruby version
   ruby '2.7.1'
 * Rails version
